@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "my first title": "Posts are fun until you run out of time" },
+    { "id": 2, "some title 2": "Post 2" },
+    { "id": 3, "title 3": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
