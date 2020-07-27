@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "my first title": "Posts are fun until you run out of time" },
-    { "id": 2, "some title 2": "Post 2" },
-    { "id": 3, "title 3": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    { "id": 1, "price": 249.00, "title": "3M KN95 Particulate Respirator Mask", "image": "mask.jpg", "description": "Maintain a healthy respiratory system with this KN95 respirator, reducing exposure to bacteria, viruses and potentially harmful airborne biological contaminants." },
+    { "id": 2, "price": 4.99, "title": "Dettol Instant Hand Sanitiser", "image": "sanitiser.jpg", "description": "The Dettol Instant Hand Sanitiser kills 99.9% of germs instantly, without water anytime, anywhere. Use while in car, office, handbag, picnics, nappy change, travel, sports, etc." },
+    { "id": 3, "price": 85, "title": "Disposable Vinyl Powder Free Gloves", "image": "gloves.jpg", "description": "The Ultra Fresh Disposable Vinyl Powder Free Gloves can withstand punctures, stretches and tears at a decent rate. It is a great choice in health care situations, while maintaining sanitary." }
+  ]
 }
